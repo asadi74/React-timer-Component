@@ -1,0 +1,18 @@
+.cont-div {
+    display: flex;
+    width: 100%;
+    align-items: center;
+}
+
+.cont-min-handle {
+    display: flex;
+    width: 50%;
+    justify-content: space-around;
+}
+
+.number-Main-style {
+    border: 1px solid gray;
+    border-radius: 10px;
+    padding: 15%;
+    /* background-color: ; */
+}
