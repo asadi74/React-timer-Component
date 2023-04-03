@@ -3,6 +3,8 @@ reverse Timer in react
 
 
 use Component :
+
+
 <TimerComponent
 initialSeconds={4}
 initialMinute = {0}
